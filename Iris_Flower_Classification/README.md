@@ -1,10 +1,17 @@
 # Iris Flower Classification
 
-Objective:
+## Objective
 To classify Iris flowers into Setosa, Versicolor, and Virginica species using machine learning.
 
-Algorithm:
+## Technologies Used
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+
+## Algorithm
 Random Forest Classifier
 
-Result:
-Accuracy achieved: 96% - 100%
+## Result
+The model achieved approximately 97%–100% accuracy on the test dataset.
+
