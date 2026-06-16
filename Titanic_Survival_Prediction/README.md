@@ -15,7 +15,6 @@ This project predicts whether a passenger survived the Titanic disaster using Ma
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
 - Scikit-Learn
 - Google Colab
 
