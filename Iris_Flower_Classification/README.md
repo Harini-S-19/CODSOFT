@@ -18,9 +18,7 @@ Target Variable:
 ## Technologies Used
 - Python
 - Pandas
-- NumPy
 - Scikit-Learn
-- Matplotlib
 - Google Colab
 
 ## Machine Learning Workflow
