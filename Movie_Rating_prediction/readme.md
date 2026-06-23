@@ -2,25 +2,24 @@
 
 ## Project Overview
 
-This project aims to predict movie ratings based on various features such as genre, director, actors, year of release, and votes received. The goal is to analyze historical movie data and build a machine learning model capable of estimating movie ratings accurately.
+This project aims to predict movie ratings based on features such as Genre, Director, and Actors. By analyzing historical movie data, a machine learning model is developed to estimate movie ratings using regression techniques.
 
 ## Features
 
 * Loaded and explored the movie dataset
 * Performed data cleaning and preprocessing
 * Checked and handled missing values
-* Converted categorical features into numerical values using encoding techniques
+* Converted categorical features into numerical values using Label Encoding
 * Selected relevant features for prediction
 * Split the dataset into training and testing sets
-* Trained a regression model to predict movie ratings
-* Generated predictions on unseen data
+* Trained a Logistic Regression model
+* Generated predictions on test data
 * Evaluated model performance using regression metrics
 
 ## Technologies Used
 
 * Python
 * Pandas
-* NumPy
 * Scikit-Learn
 * Google Colab
 
@@ -39,7 +38,7 @@ This project aims to predict movie ratings based on various features such as gen
 
 ## Algorithm Used
 
-* Linear Regression
+* Logistic Regression
 
 ## Evaluation Metrics
 
@@ -58,7 +57,7 @@ This project aims to predict movie ratings based on various features such as gen
 
 ## Result
 
-Successfully developed a Movie Rating Prediction model using machine learning techniques. The model analyzes movie-related features and predicts ratings using regression algorithms. The project demonstrates data preprocessing, feature engineering, regression modeling, and performance evaluation.
+A Logistic Regression model was successfully developed to predict movie ratings based on movie-related features. The model was evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), and R² Score. This project demonstrates the complete machine learning workflow, including data preprocessing, feature encoding, model training, prediction, and evaluation.
 
 ## Learning Outcomes
 
