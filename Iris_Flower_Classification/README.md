@@ -15,6 +15,16 @@ Target Variable:
 - Iris-versicolor
 - Iris-virginica
 
+## Features
+-Loaded and explored the Iris dataset
+-Performed data cleaning and preprocessing
+-Checked and handled missing values
+-Converted categorical labels into numerical values
+-Selected relevant features for classification
+-Split dataset into training and testing sets
+-Trained a classification model
+-Generated predictions on test data
+
 ## Technologies Used
 - Python
 - Pandas
@@ -28,7 +38,7 @@ Target Variable:
 4. Train-Test Split
 5. Train Random Forest Classifier
 6. Make Predictions
-7. Evaluate Model Performance
+7. Model Evaluation
 
 ## Algorithm Used
 ### Random Forest Classifier
@@ -40,7 +50,7 @@ Random Forest is an ensemble learning algorithm that uses multiple decision tree
 - Confusion Matrix
 
 ## Results
-The model successfully classified Iris flower species with high accuracy.
+A classification model was successfully developed to predict Iris flower species based on input features. The model achieved good accuracy and demonstrated the complete machine learning workflow from preprocessing to evaluation.
 
 ## Learning Outcomes
 Through this project, I learned:
